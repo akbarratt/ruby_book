@@ -1,0 +1,1 @@
+# Arrays are index ordered lists of objects. They can contain any value type. Hashes consist of key-value pairs.
