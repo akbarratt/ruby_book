@@ -7,4 +7,4 @@ else
   puts "These hashes are not the same!"
 end
 
-# They are equal because they evaluate to the same thing. In hashes, order doesn't matter.
+# They are equal because they evaluate to the same syntax and have the same content. In hashes, order doesn't matter.
